@@ -1,0 +1,4 @@
+CONSUMER_KEY = 'xyzzy'
+CONSUMER_SECRET = 'plugh'
+ACCESS_TOKEN = 'abc123'
+ACCESS_TOKEN_SECRET = 'password1'
